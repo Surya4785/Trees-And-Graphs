@@ -1,4 +1,4 @@
-// C++ program to find the height of a binary tree using depth-first search (DFS) approach.
+// program to find the height of a binary tree using depth-first search (DFS) approach.
 #include <iostream>
 using namespace std;
 
