@@ -1,4 +1,4 @@
-// C++ program to see if two trees are identical using DFS
+// program to see if two trees are identical using DFS
 #include <bits/stdc++.h>
 using namespace std;
 
